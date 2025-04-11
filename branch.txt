@@ -1,0 +1,27 @@
+ls
+ cd  Documentos
+ mkdir projeto_3AT1PSRE4
+ ls
+ cd projeto_3AT1PSRE4
+ criar um projeto no github com o mesmo nome da pasta;
+ git init
+ git config -- list 
+ git remote add origin https://github.com/comininick/projeto_3AT1PSRE4.git
+ git branch -M main
+ git status
+ git add . 
+ git status 
+ git commit -m "commit"
+ git log
+ git push -u origin main
+ git branch 
+ git branch nicolle
+ git branch
+ git checkout nicolle
+ git branch
+ code . 
+ git add . 
+ git commit -m "nicolle"
+ git checkout main
+ git merge nicolle
+ git push
